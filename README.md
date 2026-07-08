@@ -1,7 +1,8 @@
 # sales-analysis-dashboard
+
 # Sales Analysis Dashboard - Project Structure
 
-
+```text
 sales-analysis-dashboard/
 ├── data/
 │   ├── raw/
@@ -25,3 +26,6 @@ sales-analysis-dashboard/
 │
 ├── README.md
 └── LICENSE
+```
+
+
