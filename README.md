@@ -211,7 +211,7 @@ This page provides a high-level summary of business performance.
 
 This page provides detailed insights into sales performance.
 
-https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/images/Sales%20Deepdrive.png
+images/Sales Deepdrive.png
 
 ### Visualizations
 
