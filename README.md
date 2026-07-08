@@ -184,7 +184,8 @@ The dashboard consists of **two interactive pages**.
 
 This page provides a high-level summary of business performance.
 
-![Sales Overview](images/Sales Overview.png)
+![Uploading sales overview.png…]()
+
 
 ### KPIs
 
