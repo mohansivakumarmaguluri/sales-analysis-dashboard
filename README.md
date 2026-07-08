@@ -184,7 +184,7 @@ The dashboard consists of **two interactive pages**.
 
 This page provides a high-level summary of business performance.
 
-![Uploading sales overview.png…]()
+
 
 
 ### KPIs
@@ -211,7 +211,6 @@ This page provides a high-level summary of business performance.
 
 This page provides detailed insights into sales performance.
 
-images/Sales Deepdrive.png
 
 ### Visualizations
 
