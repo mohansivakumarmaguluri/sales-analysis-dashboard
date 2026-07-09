@@ -233,13 +233,14 @@ https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/ima
 
 ## Sales Overview
 
-![Sales Overview](images/sales_overview.png)
+https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/images/Sales%20Overview.png
+
 
 ---
 
 ## Sales Deep Dive
 
-![Sales Deep Dive](images/sales_deep_dive.png)
+https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/images/Sales%20Deepdrive.png
 
 ---
 
