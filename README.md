@@ -1,6 +1,6 @@
-[# 📊 Sales Analysis Dashboard
+#  Sales Analysis Dashboard
 
-# 📌 Project Overview
+#  Project Overview
 
 The **Sales Analysis Dashboard** is an end-to-end Data Analytics project that transforms raw sales data into meaningful business insights using **Python, MySQL, SQL, and Power BI**.
 
@@ -10,7 +10,7 @@ The primary goal is to help businesses monitor sales performance, identify trend
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Analyze overall sales performance.
 - Identify high-performing regions and product categories.
@@ -22,7 +22,7 @@ The primary goal is to help businesses monitor sales performance, identify trend
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
      Dataset
@@ -52,7 +52,7 @@ Interactive Sales Dashboard
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -66,7 +66,7 @@ Interactive Sales Dashboard
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 sales-analysis-dashboard/
@@ -84,7 +84,7 @@ sales-analysis-dashboard/
 
 ---
 
-# 📥 Data Collection
+#  Data Collection
 
 The project begins with a publicly available sales dataset downloaded from an online source.
 
@@ -104,7 +104,7 @@ The dataset contains information such as:
 
 ---
 
-# 🧹 Data Cleaning
+#  Data Cleaning
 
 The dataset was cleaned using **Python (Pandas)**.
 
@@ -119,7 +119,7 @@ Cleaning tasks included:
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 EDA was performed using **Matplotlib** to understand the dataset before building the dashboard.
 
@@ -135,7 +135,7 @@ Analysis included:
 
 ---
 
-# 🗄️ Database Integration
+#  Database Integration
 
 The cleaned dataset was imported into **MySQL**, which served as the backend database for analysis.
 
@@ -143,7 +143,7 @@ Power BI was directly connected to the MySQL database to ensure efficient data r
 
 ---
 
-# 📝 SQL Business Analysis
+#  SQL Business Analysis
 
 The project includes analytical SQL queries to solve real-world business problems.
 
@@ -174,13 +174,13 @@ The project includes analytical SQL queries to solve real-world business problem
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The dashboard consists of **two interactive pages**.
 
 ---
 
-## 📈 Dashboard 1 – Sales Overview
+##  Dashboard 1 – Sales Overview
 
 This page provides a high-level summary of business performance.
 
@@ -206,7 +206,7 @@ https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/ima
 
 ---
 
-## 🔍 Dashboard 2 – Sales Deep Dive
+##  Dashboard 2 – Sales Deep Dive
 
 This page provides detailed insights into sales performance.
 
@@ -229,7 +229,7 @@ https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/ima
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ## Sales Overview
 
@@ -244,7 +244,7 @@ https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/ima
 
 ---
 
-# 📈 Key Performance Indicators
+#  Key Performance Indicators
 
 - Total Revenue
 - Total Profit
@@ -260,7 +260,7 @@ https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/ima
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The dashboard enables users to:
 
@@ -276,7 +276,7 @@ The dashboard enables users to:
 
 ---
 
-# 🚀 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Data Analytics
 
@@ -313,25 +313,25 @@ The dashboard enables users to:
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/sales-analysis-dashboard.git
 ```
 
-### 2️⃣ Run the Python Script
+### 2️ Run the Python Script
 
 ```bash
 python sales_data_preprocessing.py
 ```
 
-### 3️⃣ Import the Cleaned Dataset into MySQL
+### 3️ Import the Cleaned Dataset into MySQL
 
 Create a database and import the cleaned dataset.
 
-### 4️⃣ Execute SQL Queries
+### 4️ Execute SQL Queries
 
 Run:
 
@@ -341,7 +341,7 @@ sales_analysis_queries.sql
 
 using MySQL Workbench.
 
-### 5️⃣ Open the Dashboard
+### 5️ Open the Dashboard
 
 Open:
 
@@ -355,7 +355,7 @@ Refresh the data connection if required.
 
 ---
 
-# 📁 Project Workflow Summary
+#  Project Workflow Summary
 
 ```text
 Raw Dataset
@@ -384,7 +384,7 @@ Business Insights
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - Integrate live database connectivity.
 - Add sales forecasting using Machine Learning.
@@ -395,7 +395,7 @@ Business Insights
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Mohan Sivakumar Maguluri
 
@@ -413,7 +413,7 @@ Business Insights
 
 ---
 
-## ⭐ If you found this project helpful, please consider giving it a Star!
+##  If you found this project helpful, please consider giving it a Star!
 
 
 ](https://github.com/mohansivakumarmaguluri/sales-analysis-dashboard/blob/main/images/Sales%20Deepdrive.png)
